@@ -1,0 +1,11 @@
+D:\GitHub\ConfigurationTests\CommandLineTests\bin\Debug\netcoreapp2.0\CommandLineTests.deps.json
+D:\GitHub\ConfigurationTests\CommandLineTests\bin\Debug\netcoreapp2.0\CommandLineTests.runtimeconfig.json
+D:\GitHub\ConfigurationTests\CommandLineTests\bin\Debug\netcoreapp2.0\CommandLineTests.runtimeconfig.dev.json
+D:\GitHub\ConfigurationTests\CommandLineTests\bin\Debug\netcoreapp2.0\CommandLineTests.dll
+D:\GitHub\ConfigurationTests\CommandLineTests\bin\Debug\netcoreapp2.0\CommandLineTests.pdb
+D:\GitHub\ConfigurationTests\CommandLineTests\obj\Debug\netcoreapp2.0\CommandLineTests.csprojResolveAssemblyReference.cache
+D:\GitHub\ConfigurationTests\CommandLineTests\obj\Debug\netcoreapp2.0\CommandLineTests.csproj.CoreCompileInputs.cache
+D:\GitHub\ConfigurationTests\CommandLineTests\obj\Debug\netcoreapp2.0\CommandLineTests.AssemblyInfoInputs.cache
+D:\GitHub\ConfigurationTests\CommandLineTests\obj\Debug\netcoreapp2.0\CommandLineTests.AssemblyInfo.cs
+D:\GitHub\ConfigurationTests\CommandLineTests\obj\Debug\netcoreapp2.0\CommandLineTests.dll
+D:\GitHub\ConfigurationTests\CommandLineTests\obj\Debug\netcoreapp2.0\CommandLineTests.pdb
