@@ -1,0 +1,11 @@
+D:\GitHub\ConfigurationTests\ConfigMvcTests\bin\Debug\netcoreapp2.0\ConfigMvcTests.deps.json
+D:\GitHub\ConfigurationTests\ConfigMvcTests\bin\Debug\netcoreapp2.0\ConfigMvcTests.runtimeconfig.json
+D:\GitHub\ConfigurationTests\ConfigMvcTests\bin\Debug\netcoreapp2.0\ConfigMvcTests.runtimeconfig.dev.json
+D:\GitHub\ConfigurationTests\ConfigMvcTests\bin\Debug\netcoreapp2.0\ConfigMvcTests.dll
+D:\GitHub\ConfigurationTests\ConfigMvcTests\bin\Debug\netcoreapp2.0\ConfigMvcTests.pdb
+D:\GitHub\ConfigurationTests\ConfigMvcTests\obj\Debug\netcoreapp2.0\ConfigMvcTests.csprojResolveAssemblyReference.cache
+D:\GitHub\ConfigurationTests\ConfigMvcTests\obj\Debug\netcoreapp2.0\ConfigMvcTests.csproj.CoreCompileInputs.cache
+D:\GitHub\ConfigurationTests\ConfigMvcTests\obj\Debug\netcoreapp2.0\ConfigMvcTests.AssemblyInfoInputs.cache
+D:\GitHub\ConfigurationTests\ConfigMvcTests\obj\Debug\netcoreapp2.0\ConfigMvcTests.AssemblyInfo.cs
+D:\GitHub\ConfigurationTests\ConfigMvcTests\obj\Debug\netcoreapp2.0\ConfigMvcTests.dll
+D:\GitHub\ConfigurationTests\ConfigMvcTests\obj\Debug\netcoreapp2.0\ConfigMvcTests.pdb
